@@ -16,19 +16,19 @@ Multimodal learning is like teaching AI to think like humans by blending multipl
 
 1. **🔍 Feature Extraction**  
    Pull out the hidden gems from each data type.  
-   - Example: Text embeddings (BERT), image features (ResNet).  
+   - **Example**: Text embeddings with BERT, image features using ResNet.
 
 2. **🎛️ Fusion Techniques**  
    Mix, match, and combine modalities for magic.  
-   - Popular tricks: Concatenation, attention mechanisms.  
+   - **Popular Tricks**: Concatenation, attention mechanisms.
 
 3. **🌉 Cross-modal Learning**  
    Build bridges between modalities for deeper understanding.  
-   - Think: Text-to-image search or vice versa.  
+   - **Think**: Text-to-image search or image-to-text analysis.
 
 4. **⚖️ Modality Alignment**  
    Align modalities into a shared space for seamless integration.  
-   - Example: CLIP aligning text and images.  
+   - **Example**: CLIP aligning text and images for unified embedding spaces.
 
 ---
 
@@ -46,13 +46,13 @@ Multimodal learning is like teaching AI to think like humans by blending multipl
 ## ⚡ **Challenges to Conquer**  
 
 1. **Data Drought**  
-   Annotated multimodal datasets are like rare treasures—scarce!  
+   Annotated multimodal datasets are like rare treasures—scarce and hard to find!  
 
 2. **Modal Mayhem**  
-   Dealing with conflicting or redundant information is no cakewalk.  
+   Dealing with conflicting, noisy, or redundant information from different modalities isn’t straightforward.  
 
 3. **Scaling Struggles**  
-   Training on massive datasets requires supercomputers (or patience).  
+   Training on massive multimodal datasets demands high computational power and specialized hardware.  
 
 ---
 
