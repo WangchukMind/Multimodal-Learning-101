@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Mastering Multimodal Learning  
+# 🌟 Mastering Multimodal Learning  🌟
 *Unleashing the synergy of text, images, audio, and beyond!*
 
 </div>
