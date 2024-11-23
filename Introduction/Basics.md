@@ -52,7 +52,7 @@ Multimodal learning is like teaching AI to think like humans by blending multipl
    Dealing with conflicting, noisy, or redundant information from different modalities isn’t straightforward.  
 
 3. **Scaling Struggles**  
-   Training on massive multimodal datasets demands high computational power and specialized hardware.  
+   Training on massive multimodal datasets demands high computational power and specialized hardware.  💡💡💡
 
 ---
 
