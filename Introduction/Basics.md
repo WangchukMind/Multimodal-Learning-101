@@ -3,7 +3,7 @@
 # 🌟 Mastering Multimodal Learning  🌟
 *Unleashing the synergy of text, images, audio, and beyond!*
 
-</div>
+</div> 
 
 ---
 
