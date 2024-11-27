@@ -6,8 +6,9 @@
 </div> 
 
 ---
-
-## 🎯 **What is Multimodal Learning?**  
+<div align ="center">
+## 🎯 **What is Multimodal Learning?**
+</div>
 Multimodal learning is like teaching AI to think like humans by blending multiple data types—text, images, audio, and video—creating smarter and more versatile systems. It's the ultimate collaboration of senses in the AI world!  
 
 ---
