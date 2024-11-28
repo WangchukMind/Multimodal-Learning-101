@@ -75,5 +75,5 @@ For image generation, notable architectures are DALL-E 1 (2021), Parti (2022),[1
    Training on massive multimodal datasets demands high computational power and specialized hardware.  
 
 ---
-
+# content from :https://en.wikipedia.org/wiki/Multimodal_learning
 *Multimodal learning isn't just science—it's an art that brings machines one step closer to understanding the beautiful complexity of human communication.* 💡  
