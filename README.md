@@ -3,7 +3,7 @@
 # 🌟 Multimodal Learning 101 🌟
 
 **A journey from basics to mastery in multimodal learning!**  
-Welcome to a world where text, images, audio, and video come together to create intelligent systems. 🚀  
+Welcome to a world where text, images, audio, and video come together to create intelligent systems.  🚀  
 
 ![Author Animation](https://github.com/WangchukMind/Multimodal-Learning-101/raw/main/assets/my-animation.gif)
 
